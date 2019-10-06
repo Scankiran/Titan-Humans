@@ -1,0 +1,10 @@
+height : 200
+width : 200
+numberOfPeople : 50
+numberOf3mTitan : 30
+numberOf5mTitan : 15
+numberOf15mTitan : 5
+numberOfObstacle : 200
+initialScoreOf3mTitan : 20
+initialScoreOf5mTitan : 50
+initialScoreOf15mTitan : 100
