@@ -11,6 +11,7 @@ Please read carefully.
 
 
 * If a player encounters with a Titan;
+
 		—>  three-meters – if the player score is higher than the titan score, the
 			titan is dead, otherwise the player score is decreased by one and the
 			player is placed in a random position.
@@ -36,26 +37,43 @@ occupy two tiles space. All players and obstacles occupy one tile space.
 
 
 * What’s the mean of colors?
+	
 	—>White - Obstacle
+	
 	—>Magenta - Low Level Titan (initial score: 20)
+	
 	—>Maroon - Med Level Titan (initial score: 50)
+	
 	—>Green - High Level Titan (initial score: 100)
+	
 	—>Navy - Low Level User
+	
 	—>Cyan - Med Level User
+	
 	—>Red - High Level User
 
 *If you change the game features you can edit config.txt.
 
 * Initial config Settings;
+	
 	height : 200
+	
 	width : 200
+	
 	numberOfPeople : 50
+	
 	numberOf3mTitan : 30
+	
 	numberOf5mTitan : 15
+	
 	numberOf15mTitan : 5
+	
 	numberOfObstacle : 200
+	
 	initialScoreOf3mTitan : 20
+	
 	initialScoreOf5mTitan : 50
+	
 	initialScoreOf15mTitan : 100
 
 	
